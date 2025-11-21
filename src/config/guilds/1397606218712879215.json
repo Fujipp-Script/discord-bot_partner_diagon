@@ -1,0 +1,9 @@
+{
+  "topup": {
+    "firstRoleId": "1393550961984929853",
+    "upgradedRoleId": "1403399905854357505",
+    "top10RoleId": "",
+    "top1RoleId": "",
+    "thresholds": { "amount": 2000, "count": 5 }
+  }
+}
